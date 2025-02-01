@@ -1012,7 +1012,7 @@
                   },
                   {
                     logo: "uniswap.png",
-                    url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+                    url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcd2BC5761EF1519793d867562B9aF8167C41F139&chain=mainnet",
                   },
                   {
                     logo: "image 3412.png",
