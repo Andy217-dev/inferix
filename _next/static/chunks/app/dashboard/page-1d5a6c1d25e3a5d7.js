@@ -156,7 +156,7 @@
               children: (0, a.jsx)(x, {
                 content: "Join our Telegram",
                 onClick: () => {
-                  window.open("https://t.me/", "_blank");
+                  window.open("https://t.me/inferixai_erc/", "_blank");
                 },
                 isActive: !0,
                 stylesContent: {

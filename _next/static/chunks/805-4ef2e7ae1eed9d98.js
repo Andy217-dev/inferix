@@ -52,12 +52,12 @@
                       className: "flex gap-[40px] mt-[32px] sm:mt-[0]",
                       children: [
                         {
-                          href: "https://x.com/",
+                          href: "https://x.com/inferix_eth/",
                           src: "/assets/icons/icon-x.svg",
                           alt: "Twitter",
                         },
                         {
-                          href: "https://t.me",
+                          href: "https://t.me/inferixai_erc",
                           src: "/assets/icons/icon-telegram.svg",
                           alt: "Telegram",
                         },
@@ -164,12 +164,12 @@
         },
         p = [
           {
-            href: "https://x.com",
+            href: "https://x.com/inferix_eth",
             src: "/assets/icons/icon-x.svg",
             alt: "Twitter",
           },
           {
-            href: "https://t.me",
+            href: "https://t.me/inferixai_erc",
             src: "/assets/icons/icon-telegram.svg",
             alt: "Telegram",
           },
