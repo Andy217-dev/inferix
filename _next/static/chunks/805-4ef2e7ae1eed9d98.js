@@ -147,7 +147,7 @@
           window.scrollTo({ top: 0, behavior: "smooth" });
         },
         a = () => {
-          window.open("https://dash.inferix.io/");
+          window.open("https://app-inferixai.vercel.app/");
         },
         c = () => {
           let e = document.getElementById("backer");
