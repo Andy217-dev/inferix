@@ -741,7 +741,7 @@
               },
               handleClickDocOne: () => {
                 window.open(
-                  "https://hajans-organization123.gitbook.io/inferix-decentralized-gpu/inferix-testnet-1/adding-gpus-to-the-network",
+                  "https://docs.inferixai.pro/inferix-testnet-1/adding-gpus-to-the-network",
                   "_blank"
                 );
               },
@@ -752,7 +752,7 @@
               },
               handleClickDocTwo: () => {
                 window.open(
-                  "https://hajans-organization123.gitbook.io/inferix-decentralized-gpu/inferix-testnet-1/renting-gpu-devices",
+                  "https://docs.inferixai.pro/inferix-testnet-1/renting-gpu-devices",
                   "_blank"
                 );
               },
@@ -796,7 +796,7 @@
                     content: "Docs",
                     onClick: () => {
                       window.open(
-                        "https://hajans-organization123.gitbook.io/inferix-decentralized-gpu/inferix-testnet-1/gpu-staking",
+                        "https://docs.inferixai.pro/inferix-testnet-1/gpu-staking",
                         "_blank"
                       );
                     },

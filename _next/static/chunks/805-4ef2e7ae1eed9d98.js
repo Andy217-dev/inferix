@@ -105,7 +105,7 @@
                           "flex w-[286px] justify-between items-center order-1 sm:order-2 ",
                         children: [
                           (0, r.jsx)("a", {
-                            href: "https://hajans-organization123.gitbook.io/inferix-decentralized-gpu/terms-of-service/airdrop-terms-of-service",
+                            href: "https://docs.inferixai.pro/terms-of-service/airdrop-terms-of-service",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             style: { fontFamily: "Inter" },
@@ -118,7 +118,7 @@
                               "w-[1px] h-[18px] bg-white cursor-default",
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://hajans-organization123.gitbook.io/inferix-decentralized-gpu/terms-of-service/privacy-policy",
+                            href: "https://docs.inferixai.pro/terms-of-service/privacy-policy",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             style: { fontFamily: "Inter" },
@@ -147,7 +147,7 @@
           window.scrollTo({ top: 0, behavior: "smooth" });
         },
         a = () => {
-          window.open("https://app-inferixai.vercel.app/");
+          window.open("https://app.inferixai.pro/");
         },
         c = () => {
           let e = document.getElementById("backer");
@@ -157,7 +157,7 @@
           window.open("https://verifier.inferix.io/");
         },
         d = () => {
-          window.open("https://hajans-organization123.gitbook.io/inferix-decentralized-gpu");
+          window.open("https://docs.inferixai.pro");
         },
         h = () => {
           window.open("/dashboard");

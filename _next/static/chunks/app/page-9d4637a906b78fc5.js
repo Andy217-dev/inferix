@@ -1011,8 +1011,8 @@
                     url: "https://house3d.com/",
                   },
                   {
-                    logo: "depinx.png",
-                    url: "https://depinx.com/",
+                    logo: "uniswap.png",
+                    url: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
                   },
                   {
                     logo: "image 3412.png",
@@ -1321,29 +1321,7 @@
             (0, a.jsxs)("div", {
               className:
                 "absolute w-full flex flex-col top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-30 items-center",
-              children: [
-                (0, a.jsxs)("div", {
-                  style: {
-                    background: "rgba(0, 0, 0, 0.40)",
-                    border: "1px solid rgba(255, 255, 255, 0.15)",
-                  },
-                  className:
-                    "flex mx-auto items-center justify-center rounded-[50px] px-4 py-2 shadow-lg max-w-max",
-                  children: [
-                    (0, a.jsx)("div", {
-                      className:
-                        "flex items-center justify-center bg-[#55FFEB] text-[10px] text-black font-bold rounded-full h-[18px] w-[34px] mr-3",
-                      children: "NEW",
-                    }),
-                    (0, a.jsx)("span", {
-                      className: "text-white font-medium",
-                      children: (0, a.jsx)("a", {                        
-                        className: "underline text-[14px]",
-                        children: "Testnet is live! ",
-                      }),
-                    }),
-                  ],
-                }),
+              children: [   
                 (0, a.jsx)("span", {
                   style: {
                     backgroundImage:
