@@ -579,21 +579,6 @@
                           "w-full items-center flex flex-col gap-[16px]",
                         children: [
                           (0, a.jsx)(x, {
-                            content: "Register now",
-                            onClick: t,
-                            isActive: !0,
-                            stylesContent: {
-                              fontSize: "14px",
-                              fontFamily: "Inter, sans-serif",
-                            },
-                            width: "130px",
-                            height: "36px",
-                            backgroundColor: "#01CAAA",
-                            hoverBackgroundColor: "#7EFFB2CF",
-                            hoverTextColor: "black",
-                            textColor: "black",
-                          }),
-                          (0, a.jsx)(x, {
                             content: "Docs",
                             onClick: s,
                             isActive: !0,
@@ -670,22 +655,7 @@
                       (0, a.jsxs)("div", {
                         className:
                           "w-full items-center flex flex-col gap-[16px]",
-                        children: [
-                          (0, a.jsx)(x, {
-                            content: "Rent now",
-                            onClick: t,
-                            isActive: !0,
-                            stylesContent: {
-                              fontSize: "14px",
-                              fontFamily: "Inter, sans-serif",
-                            },
-                            width: "130px",
-                            height: "36px",
-                            backgroundColor: "#01CAAA",
-                            hoverBackgroundColor: "#7EFFB2CF",
-                            hoverTextColor: "black",
-                            textColor: "black",
-                          }),
+                        children: [                          
                           (0, a.jsx)(x, {
                             content: "Docs",
                             onClick: s,
