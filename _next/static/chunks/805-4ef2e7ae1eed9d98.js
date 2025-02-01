@@ -233,7 +233,7 @@
                             className:
                               "text-white/60 text-[14px] font-normal leading-[26px]",
                             onClick: a,
-                            children: "GPU Network",
+                            children: "Inferix Dapp ",
                           }),
                           (0, r.jsx)("button", {
                             className:
@@ -286,7 +286,7 @@
                                   onClick: () => {
                                     a(), u(!1);
                                   },
-                                  children: "GPU Network",
+                                  children: "Inferix Dapp",
                                 }),
                                 (0, r.jsx)("button", {
                                   className:
